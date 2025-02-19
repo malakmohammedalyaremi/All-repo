@@ -7,4 +7,5 @@
 [yolo3](https://github.com/malakmohammedalyaremi/yoloOBB.git)
 [yolo4](https://github.com/malakmohammedalyaremi/yolopose.git)
 [yolo5](https://github.com/malakmohammedalyaremi/yoloSegment.git)
+[yolo6](https://github.com/malakmohammedalyaremi/yoloTrack.git)
 
